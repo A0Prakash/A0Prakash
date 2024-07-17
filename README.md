@@ -1,7 +1,7 @@
 # Hello!
 
 ## Experience/Knowledge
-### - Design Lead at FRC6502
+### - Design Lead/Pit Lead at FRC6502
 - Lead a team of people to create a CAD Model of a robot each year
 ### - Internship at the Duke Cyber Physical Systems Lab
 - Worked on a project called RadNav and helped with drone assembly
