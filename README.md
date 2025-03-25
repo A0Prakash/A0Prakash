@@ -1,7 +1,7 @@
 # Hello!
 
 ## Experience/Knowledge
-### - Design Lead/Pit Lead at FRC6502
+### - Captain/Design Lead/Driver at FRC6502
 - Lead a team of people to create a CAD Model of a robot each year
 ### - Internship at the Duke Cyber Physical Systems Lab
 - Worked on a project called RadNav and helped with drone assembly
@@ -16,8 +16,9 @@
 - Worked with Tello and PX4 with Raspberry Pi, and have built FPV drone
 
 ## Completed Courses
-### - APCS
-### - Post AP Course: Data Structures and Algorithms
+### - APCS at Durham Academy
+### - Post AP Course: Data Structures and Algorithms at Durham Academy
+### - Post AP Course: AI/ML at Durham Academy
 ### - Course in Arduino Programming
 ### - 2 AI/ML Courses
 <!--
